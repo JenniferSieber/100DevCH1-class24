@@ -1,6 +1,7 @@
 console.log('Cohort 1, Class 24', 'Boulder Badge')
 //Part One
 console.log('Part One: Boulder Badge')
+
 // 1
 const bulbasaurEvolves = 16 - 5;
 const caterpieEvolves = 7 - 1;
@@ -26,6 +27,7 @@ console.log(underPokemonLeague(5));
 
 // Part Two
 console.log(`Part Two: Cascade Badge`);
+
 // 1
 const list = arr => console.log(arr.reverse());
 
